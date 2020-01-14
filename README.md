@@ -38,13 +38,14 @@
 ### 文案
 - 系列1 产品： boots 男款
 
-Keep feet warm and dry for cold winter！
-Need winter boots? Up to 50% off and free shipping.
+Keep feet warm and dry for cold winter！<br>
+Need winter boots? Up to 50% off and free shipping.<br>
 Discover it here: https://bit.ly/xxxxxmenboots
 
 - 系列2 产品： boots 女款
-Keep feet warm and dry for cold winter！
-"Lovely Boots!" Up to 50% off and free shipping.
+
+Keep feet warm and dry for cold winter！<br>
+"Lovely Boots!" Up to 50% off and free shipping.<br>
 Discover it here: https://bit.ly/xxxxxwomenboots 
 
 ### 素材
